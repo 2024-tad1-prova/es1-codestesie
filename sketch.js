@@ -3,4 +3,5 @@ function setup() {
   background( 255 );
 
   // istruzioni grafiche
+  circle( width/2, height/2, 100 );
 }
